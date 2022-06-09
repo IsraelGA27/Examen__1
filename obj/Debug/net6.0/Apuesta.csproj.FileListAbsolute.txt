@@ -1,0 +1,15 @@
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\bin\Debug\net6.0\Apuesta.exe
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\bin\Debug\net6.0\Apuesta.deps.json
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\bin\Debug\net6.0\Apuesta.runtimeconfig.json
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\bin\Debug\net6.0\Apuesta.dll
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\bin\Debug\net6.0\ref\Apuesta.dll
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\bin\Debug\net6.0\Apuesta.pdb
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\obj\Debug\net6.0\Apuesta.csproj.AssemblyReference.cache
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\obj\Debug\net6.0\Apuesta.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\obj\Debug\net6.0\Apuesta.AssemblyInfoInputs.cache
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\obj\Debug\net6.0\Apuesta.AssemblyInfo.cs
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\obj\Debug\net6.0\Apuesta.csproj.CoreCompileInputs.cache
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\obj\Debug\net6.0\Apuesta.dll
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\obj\Debug\net6.0\ref\Apuesta.dll
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\obj\Debug\net6.0\Apuesta.pdb
+E:\Users\DELL\Desktop\Repositorio-NET\Programacion-Visual-.NET\JuegoRuleta\obj\Debug\net6.0\Apuesta.genruntimeconfig.cache
